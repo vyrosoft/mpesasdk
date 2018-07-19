@@ -1,0 +1,22 @@
+[29-Mar-2018 14:48:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'zipwallet_admin'@'localhost' (using password: YES) in /home/zipwallet/zipsacco.zipwallet.co.ke/mpesa/confirmation.php on line 21
+[29-Mar-2018 14:51:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'zipwallet_admin'@'localhost' (using password: YES) in /home/zipwallet/zipsacco.zipwallet.co.ke/mpesa/confirmation.php on line 24
+[29-Mar-2018 14:57:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'zipwallet_zip'@'localhost' (using password: YES) in /home/zipwallet/zipsacco.zipwallet.co.ke/mpesa/confirmation.php on line 24
+[10-Jul-2018 15:26:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'zipwallet_admin'@'localhost' to database 'zipwallet_db' in /home2/zipwalletpay/public_html/apipay/confirmation.php on line 21
+[10-Jul-2018 15:29:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'zipwallet_admin'@'localhost' (using password: YES) in /home2/zipwalletpay/public_html/apipay/confirmation.php on line 21
+[10-Jul-2018 15:30:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'zipwalletpay_admin'@'localhost' to database 'zipwallet_db' in /home2/zipwalletpay/public_html/apipay/confirmation.php on line 21
+[12-Jul-2018 21:22:36 UTC] PHP Warning:  openssl_public_encrypt(): key parameter is not a valid public key in /home2/zipwalletpay/public_html/apipay/validation.php on line 20
+[12-Jul-2018 21:22:43 UTC] PHP Warning:  fwrite() expects at least 2 parameters, 1 given in /home2/zipwalletpay/public_html/apipay/validation.php on line 351
+[12-Jul-2018 21:28:25 UTC] PHP Warning:  openssl_public_encrypt(): key parameter is not a valid public key in /home2/zipwalletpay/public_html/apipay/validation.php on line 20
+[12-Jul-2018 21:28:32 UTC] PHP Warning:  fwrite() expects at least 2 parameters, 1 given in /home2/zipwalletpay/public_html/apipay/validation.php on line 351
+[12-Jul-2018 21:30:43 UTC] PHP Warning:  openssl_public_encrypt(): key parameter is not a valid public key in /home2/zipwalletpay/public_html/apipay/validation.php on line 20
+[12-Jul-2018 21:30:50 UTC] PHP Warning:  fwrite() expects at least 2 parameters, 1 given in /home2/zipwalletpay/public_html/apipay/validation.php on line 351
+[12-Jul-2018 21:31:02 UTC] PHP Warning:  openssl_public_encrypt(): key parameter is not a valid public key in /home2/zipwalletpay/public_html/apipay/validation.php on line 20
+[12-Jul-2018 21:31:08 UTC] PHP Warning:  fwrite() expects at least 2 parameters, 1 given in /home2/zipwalletpay/public_html/apipay/validation.php on line 351
+[12-Jul-2018 21:38:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zipwalletpay/public_html/apipay/validation.php:4) in /home2/zipwalletpay/public_html/apipay/validation.php on line 5
+[12-Jul-2018 21:44:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zipwalletpay/public_html/apipay/validation.php:4) in /home2/zipwalletpay/public_html/apipay/validation.php on line 5
+[12-Jul-2018 21:45:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zipwalletpay/public_html/apipay/validation.php:4) in /home2/zipwalletpay/public_html/apipay/validation.php on line 5
+[14-Jul-2018 15:12:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'zipwallektpay_admin'@'localhost' (using password: YES) in /home2/zipwalletpay/public_html/apipay/confirmation.php on line 13
+[19-Jul-2018 08:25:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/zipwalletpay/public_html/apipay/confirmation.php on line 65
+[19-Jul-2018 08:25:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/zipwalletpay/public_html/apipay/confirmation.php on line 65
+[19-Jul-2018 08:25:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/zipwalletpay/public_html/apipay/confirmation.php on line 65
+[19-Jul-2018 08:32:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'zipwalletpay_admin'@'localhost' (using password: YES) in /home2/zipwalletpay/public_html/apipay/confirmation.php on line 21
